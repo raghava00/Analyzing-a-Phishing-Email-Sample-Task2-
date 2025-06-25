@@ -16,4 +16,11 @@ The Objective this task is to analyze a suspicious email sample in order to iden
 ### 📥 Scenario:  
 You received an email from **BANCO DO BRADESCO LIVELO** claiming that your card has **92,990 points expiring today**, sent from `banco.bradesco@atendimento.com.br`. 
 
+## ✅ **Learning Outcome**
+
+By the end of this task, we should be able to:
+- Trace email origin
+- Validate domains and IPs
+- Understand spoofing techniques
+- Detect phishing attempts using header and body analysis
     
