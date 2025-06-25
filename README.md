@@ -10,3 +10,10 @@ The Objective this task is to analyze a suspicious email sample in order to iden
   - IP reputation check (e.g., VirusTotal, AbuseIPDB, Cisco Talos)
   - Whois lookup (e.g., whois.domaintools.com)
   - URL and Domain analysis (e.g., urlscan.io, VirusTotal)
+
+ ## 🧪 **Lab Task: Analyze the Suspicious Email**
+
+### 📥 Scenario:  
+You received an email from **BANCO DO BRADESCO LIVELO** claiming that your card has **92,990 points expiring today**, sent from `banco.bradesco@atendimento.com.br`. 
+
+    
